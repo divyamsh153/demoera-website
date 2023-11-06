@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'DEMOERA'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2BAC288E802D46E1999D4B4DAF18276F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4AD622EE4F224B69A5FE394203378620 }}
           package: .
