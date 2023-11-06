@@ -5,7 +5,7 @@
     <title>DEMOERA</title>
     <style>
         body {
-            background-color: skyblue;
+            background-color: red;
         }
 
         header {
